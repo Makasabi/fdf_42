@@ -1,0 +1,15 @@
+SOURCES += ./sources/parsing.c
+SOURCES += ./sources/mlx_hooks.c
+SOURCES += ./sources/projections.c
+SOURCES += ./sources/colors_2.c
+SOURCES += ./sources/errors.c
+SOURCES += ./sources/init.c
+SOURCES += ./sources/read.c
+SOURCES += ./sources/colors.c
+SOURCES += ./sources/utils.c
+SOURCES += ./sources/menu.c
+SOURCES += ./sources/rendering.c
+SOURCES += ./sources/mlx.c
+SOURCES += ./sources/fdf.c
+SOURCES += ./sources/bresenham.c
+SOURCES += ./sources/check.c
